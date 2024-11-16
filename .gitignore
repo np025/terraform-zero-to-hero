@@ -16,7 +16,7 @@ override.tf.json
 .terraform.d/
 
 # Terraform lock file
-.terraform.lock.hcl
+*/.terraform.lock.hcl
 
 # Sensitive files (if any)
 *.pem
