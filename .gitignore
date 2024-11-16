@@ -15,6 +15,9 @@ override.tf.json
 # .terraform.d is where plugin binaries are stored
 .terraform.d/
 
+# Terraform lock file
+.terraform.lock.hcl
+
 # Sensitive files (if any)
 *.pem
 *.key
